@@ -48,12 +48,12 @@ global.ig = 'https://www.youtube.com/channel/UCpm8tjbf_IbidQWb9YDxDXw' //Github 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
-    group: 'Feature Used Only For Groups!',
-    private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
+    admin: 'ඇඩ්මින්ලට විතරයි අනේ එහෙම කරන්න පුලුවන් 😉',
+    botAdmin: 'මට ඇඩ්මින් දෙන්නෙ නැතුව එහෙම කරන්න බැ පැට්ටො 😥',
+    owner: '@0785602293 ට විතරයි ඒක කරන්න පුලුවන්😉',
+    group: 'ගෲප්වල විතරයි අනේ එහෙම කරන්න පුලුවන්😉',
+    private: 'Inbox ආවොත් විතරයි අනේ එහෙම කරන්න පුලුවන්😉',
+    bot: 'අලව්වෙත් ඔහොම සිද්දියක් උනා 😝',
     wait: '👉👈පොඩ්ඩක් ඉන්න මැනික ❤️...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
